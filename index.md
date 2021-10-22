@@ -70,6 +70,33 @@
 
 ### 软件测试工程师必备电子书
 
+1\.《Python测试之道》[百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+
+2\.《google软件测试之道》[百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+
+3\.《JAVA自动化测试实战》[百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+
+4\.《mysql必知必会》[百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+
+5\.《Python自动化测试实战》[百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+6\.《QTP自动化测试实践》[百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+
+7\.《robot_framework自动化测试》[百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+
+8\.《大话移动APP测试》[百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+
+9\.《计算机软件测试》[百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+10\.《敏捷软件测试》[百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+
+11\.《全程软件测试》[百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+
+12\.《软件测试工程师面试指导》[百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+
+13\.《性能测试从零开始》[百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+
+14\.《软件测试基础》[百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+
+
 # 关于培训
 以上软件测试资料都是无偿分享的，自学能力强的人，如果按照上面的顺序学下来，找个软件测试专员的岗位问题应该不大！
 
