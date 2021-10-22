@@ -4,6 +4,8 @@
 
 软件测试学习，从这里开始！
 ### 如果链接打不开，请联系我：
+微信：T4219387214
+电话：19512461463
 
 # 以下是文件目录：
 
@@ -79,6 +81,7 @@
 4\.《mysql必知必会》[百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
 
 5\.《Python自动化测试实战》[百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+
 6\.《QTP自动化测试实践》[百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
 
 7\.《robot_framework自动化测试》[百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
@@ -86,6 +89,7 @@
 8\.《大话移动APP测试》[百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
 
 9\.《计算机软件测试》[百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+
 10\.《敏捷软件测试》[百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
 
 11\.《全程软件测试》[百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
