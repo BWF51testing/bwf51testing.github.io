@@ -8,14 +8,19 @@
 # 以下是文件目录：
 
 ### 软件测试学习路径及讲义：
-1\.软件测试工程师知识图谱 [百度网盘链接](https://pan.baidu.com/s/1ksQiyAv4wTuWqdqTzNafTw)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
-2\. 软件测试基础讲义 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
-3\. 软件测试学习路径 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+1\.软件测试工程师知识图谱 [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+
+2\. 软件测试基础讲义 [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+
+3\. 软件测试学习路径 [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
 
 ### 软件测试从入门到提升：
-1\. 测试基础 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
-2\. 软件需求 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
-3\. 测试过程 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+1\. 测试基础 [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+
+2\. 软件需求 [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+
+3\. 测试过程 [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+
 4\. 通用测试用例 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
 5\. 测试方法 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
 6\. 测试用例设计 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
