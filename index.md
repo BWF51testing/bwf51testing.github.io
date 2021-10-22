@@ -3,46 +3,45 @@
 为了方便0基础的同学入门软件测试，我们整理了【**70G软件测试资料包**】，包含了公开课程、软件测试电子书籍、视频讲义、软件工具以及大厂软件测试面试宝典等等。
 
 软件测试学习，从这里开始！
-
-为保证连接的持久性，以下压缩包均添加了密码，
-# [点击这里获取解压密码](http://kbyx0011.mikecrm.com/qCumvim)
+### 如果链接打不开，请联系我：
 
 # 以下是文件目录：
 
 ### 软件测试学习路径及讲义：
-1. 软件测试工程师知识图谱 百度网盘链接，提取码：m19k
-2. 软件测试基础讲义 百度网盘链接，提取码：63xa
-3. 软件测试学习路径 百度网盘链接，提取码：ymvo
+1\.软件测试工程师知识图谱 [百度网盘链接](https://pan.baidu.com/s/1ksQiyAv4wTuWqdqTzNafTw)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+2\. 软件测试基础讲义 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+3\. 软件测试学习路径 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
 
 ### 软件测试从入门到提升：
-7. 测试基础 百度网盘链接，提取码：xk9i
-8. 软件需求 百度网盘链接，提取码：4rar
-9. 测试过程 百度网盘链接，提取码：j764
-10. 通用测试用例 百度网盘链接，提取码：gxuf
-11. 测试方法 百度网盘链接，提取码：c4f6
-12. 测试用例设计 百度网盘链接，提取码：yvxw
-13. 测试覆盖率 百度网盘链接，提取码：u0v4
-14. 缺陷管理 百度网盘链接，提取码：o6cc
-15. 项目实践 百度网盘链接，提取码：l2nx
-16. IT 百度网盘链接，提取码：jhtt
-17. Oracle 百度网盘链接，提取码：dyfa
-18. Web测试 百度网盘链接，提取码：v7hl
-19. Jmeter 百度网盘链接，提取码：ezes
-20.LoadRunner 百度网盘链接，提取码：ltj5
-21.qtp 百度网盘链接，提取码：5qro
-22.ST 百度网盘链接，提取码：9cqv
-23.UT 百度网盘链接，提取码：yutb
+1\. 测试基础 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+2\. 软件需求 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+3\. 测试过程 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+4\. 通用测试用例 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+5\. 测试方法 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+6\. 测试用例设计 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+7\. 测试覆盖率 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+8\. 缺陷管理 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+9\. 项目实践 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+10\. IT 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+11\. Oracle 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+12\. Web测试 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+13\. Jmeter 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+14\.LoadRunner 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+15\.qtp 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+16\.ST 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+17\.UT 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
 
 ### 职场与面试
-1.软件测试技术类面试题集锦百度网盘链接，提取码：qn0o
-2.218套求职简历精华模板百度网盘链接，提取码：zb37
-大厂软件测试沙龙资料：
-1.奇虎360技术沙龙资料 百度网盘链接，提取码：4gw6
-2.知乎软件测试沙龙PPT 百度网盘链接，提取码：jk6p
-3.20190427广州测试沙龙 百度网盘链接，提取码：n8ru
-4.阿里巴巴技术嘉年华资料 百度网盘链接，提取码：dhhx
-5.美团点评2019测试技术资料 百度网盘链接，提取码：62sc
-6.携程测试沙龙技术资料 百度网盘链接，提取码：6vcr
+1\. 软件测试技术类面试题集锦百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+2\. 218套求职简历精华模板百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+
+### 大厂软件测试沙龙资料：
+1\. 奇虎360技术沙龙资料 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+2\. 知乎软件测试沙龙PPT 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+3\. 20190427广州测试沙龙 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+4\. 阿里巴巴技术嘉年华资料 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+5\. 美团点评2019测试技术资料 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+6\. 携程测试沙龙技术资料 百度网盘链接，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
 
 # 关于培训
 以上软件测试资料都是无偿分享的，自学能力强的人，如果按照上面的顺序学下来，找个软件测试专员的岗位问题应该不大！
