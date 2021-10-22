@@ -53,7 +53,7 @@
 17\.UT [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
 
 
-### 职场与面试
+### 职场与面试:
 1\. 软件测试技术类面试题集锦 [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
 
 2\. 218套求职简历精华模板 [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
@@ -71,7 +71,7 @@
 
 6\. 携程测试沙龙技术资料 [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
 
-### 软件测试工程师必备电子书
+### 软件测试工程师必备电子书:
 
 1\.《Python测试之道》[百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
 
