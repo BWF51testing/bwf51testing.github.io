@@ -1,23 +1,36 @@
-## 欢迎来到博为峰51testing资料分享小站
+## Welcome to Learning-Software-Testing
 
-为了方便0基础的同学入门软件测试，我们整理了【**70G软件测试资料包**】，包含了公开课程、软件测试电子书籍、视频讲义、软件工具以及大厂软件测试面试宝典等等。
-
-软件测试学习，从这里开始！
-### 如果链接打不开，请联系我：
-> V：T4219387214
-> 
-> T：19512461463
+为了方便0基础的同学入门数据分析，我们整理了【**数据分析资料包及入门课程**】，资料包内容如下：
 
 # 以下是文件目录：
 
-### 软件测试学习路径及讲义：
-1\.软件测试工程师知识图谱 [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
+### 24本高清Paython电子书：
+1\.《Head_First_Python（中文版）》 [百度网盘链接](https://pan.baidu.com/s/1PfaGXU-xbCR44tNT0DASeA)
+2\. 《Python3网络爬虫数据采集》 [百度网盘链接](https://pan.baidu.com/s/1PfaGXU-xbCR44tNT0DASeA)
+3\. 《Python编程初学者指南》 [百度网盘链接](https://pan.baidu.com/s/1PfaGXU-xbCR44tNT0DASeA)
+4\.《Python编程入门经典》[百度网盘链接](https://pan.baidu.com/s/1PfaGXU-xbCR44tNT0DASeA)
+5\.《Python标准库》[百度网盘链接](https://pan.baidu.com/s/1PfaGXU-xbCR44tNT0DASeA)
+6\.《Python科学计算》[百度网盘链接](https://pan.baidu.com/s/1PfaGXU-xbCR44tNT0DASeA)
+7\.《Python爬虫开发与项目实战》[百度网盘链接](https://pan.baidu.com/s/1PfaGXU-xbCR44tNT0DASeA)
+8\.《Python数据处理》[百度网盘链接](https://pan.baidu.com/s/1PfaGXU-xbCR44tNT0DASeA)
+9\.《Python数据分析基础》[百度网盘链接](https://pan.baidu.com/s/1PfaGXU-xbCR44tNT0DASeA)
+10\.《Python数据分析基础教程：Numpy学习指南》[百度网盘链接](https://pan.baidu.com/s/1PfaGXU-xbCR44tNT0DASeA)
+11\.《Python数据分析实战》[百度网盘链接](https://pan.baidu.com/s/1PfaGXU-xbCR44tNT0DASeA)
+12\.《Python数据分析与数据化运营》[百度网盘链接](https://pan.baidu.com/s/1PfaGXU-xbCR44tNT0DASeA)
+13\.《Python数据分析与挖掘实战》[百度网盘链接](https://pan.baidu.com/s/1PfaGXU-xbCR44tNT0DASeA)
+14\.《Python数据科学手册》[百度网盘链接](https://pan.baidu.com/s/1PfaGXU-xbCR44tNT0DASeA)
+15\.《Python数据可视化编程实战》[百度网盘链接](https://pan.baidu.com/s/1PfaGXU-xbCR44tNT0DASeA)
+16\.《Python网络数据采集》[百度网盘链接](https://pan.baidu.com/s/1PfaGXU-xbCR44tNT0DASeA)
+17\.《常用数据挖掘算法总结及Python实现》[百度网盘链接](https://pan.baidu.com/s/1PfaGXU-xbCR44tNT0DASeA)
+18\.《从Excel到Python—数据分析进阶指南》[百度网盘链接](https://pan.baidu.com/s/1PfaGXU-xbCR44tNT0DASeA)
+19\.《机器学习numpy和pandas基础》[百度网盘链接](https://pan.baidu.com/s/1PfaGXU-xbCR44tNT0DASeA)
+20\.《利用Python进行数据分析》[百度网盘链接](https://pan.baidu.com/s/1PfaGXU-xbCR44tNT0DASeA)
+21\.《如何用数据解决实际问题》[百度网盘链接](https://pan.baidu.com/s/1PfaGXU-xbCR44tNT0DASeA)
+22\.《数据科学入门》[百度网盘链接](https://pan.baidu.com/s/1PfaGXU-xbCR44tNT0DASeA)
+23\.《网络爬虫-Python和数据分析》[百度网盘链接](https://pan.baidu.com/s/1PfaGXU-xbCR44tNT0DASeA)
+24\.《用Python写网络爬虫》[百度网盘链接](https://pan.baidu.com/s/1PfaGXU-xbCR44tNT0DASeA)
 
-2\. 软件测试基础讲义 [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
-
-3\. 软件测试学习路径 [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
-
-### 软件测试从入门到提升：
+### 6本高清数据分析电子书：
 1\. 测试基础 [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
 
 2\. 软件需求 [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
